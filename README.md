@@ -6,6 +6,9 @@
 
 ---
 
+[![VIDEO DOCUMENATARY HERE: ](https://youtube.com)](https://youtu.be/fkdwuznjS9E)
+
+---
 ## Overview
 
 This project runs two concurrent FreeRTOS tasks on an ESP32 WROOM-32:
