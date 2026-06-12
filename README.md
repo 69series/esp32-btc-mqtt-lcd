@@ -5,10 +5,12 @@
 > No Arduino. No libraries. Pure C.
 
 ---
+## Demo
 
-[![VIDEO DOCUMENATARY HERE: ](https://youtube.com)](https://youtu.be/fkdwuznjS9E)
+[![ESP32 Bitcoin Ticker + MQTT Alert System](https://img.youtube.com/vi/fkdwuznjS9E/maxresdefault.jpg)](https://youtu.be/fkdwuznjS9E)
 
----
+> Click the thumbnail to watch the full video documentary.
+
 ## Overview
 
 This project runs two concurrent FreeRTOS tasks on an ESP32 WROOM-32:
